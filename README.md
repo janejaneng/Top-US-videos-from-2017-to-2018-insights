@@ -14,6 +14,8 @@ This report presents an end-to-end analytical workflow on the top 1,000 trending
 <br/>
 <img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/dd90183e-5b98-4449-b9e3-d5e87d75e356" />
 
+<h2>Data source</h2>
+https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 <h2>Languages and Utilities Used</h2>
 
